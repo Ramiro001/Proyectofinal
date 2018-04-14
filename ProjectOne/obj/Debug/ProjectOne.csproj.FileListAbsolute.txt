@@ -1,0 +1,34 @@
+c:\users\ramiroyunior\documents\visual studio 2015\Projects\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.exe.config
+c:\users\ramiroyunior\documents\visual studio 2015\Projects\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.exe
+c:\users\ramiroyunior\documents\visual studio 2015\Projects\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.pdb
+c:\users\ramiroyunior\documents\visual studio 2015\Projects\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.csprojResolveAssemblyReference.cache
+c:\users\ramiroyunior\documents\visual studio 2015\Projects\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.exe
+c:\users\ramiroyunior\documents\visual studio 2015\Projects\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.pdb
+C:\Users\Reymer Fricas\Downloads\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\Reymer Fricas\Downloads\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.exe
+C:\Users\Reymer Fricas\Downloads\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.pdb
+C:\Users\Reymer Fricas\Downloads\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.csprojResolveAssemblyReference.cache
+C:\Users\Reymer Fricas\Downloads\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Reymer Fricas\Downloads\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\Reymer Fricas\Downloads\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.pdb
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.exe.config
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.exe
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.pdb
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.exe
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\bin\Debug\ProjectOne.pdb
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProyectoProgramacionObjectOriented\ProyectoProgramacionObjectOriented\ProjectOne\obj\Debug\ProjectOne.csprojResolveAssemblyReference.cache
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProjectOne\bin\Debug\ProjectOne.exe.config
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProjectOne\obj\Debug\ProjectOne.exe
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProjectOne\obj\Debug\ProjectOne.pdb
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProjectOne\bin\Debug\ProjectOne.exe
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProjectOne\bin\Debug\ProjectOne.pdb
+D:\Cuatrimestre 9\Proyecto final\Ramiro-HDProyectofinal\ProjectOne\obj\Debug\ProjectOne.csprojResolveAssemblyReference.cache
+D:\Cuatrimestre 9\Proyecto final\modificacion\bakup modificacion\ProjectOne\bin\Debug\ProjectOne.exe.config
+D:\Cuatrimestre 9\Proyecto final\modificacion\bakup modificacion\ProjectOne\obj\Debug\ProjectOne.exe
+D:\Cuatrimestre 9\Proyecto final\modificacion\bakup modificacion\ProjectOne\obj\Debug\ProjectOne.pdb
+D:\Cuatrimestre 9\Proyecto final\modificacion\bakup modificacion\ProjectOne\bin\Debug\ProjectOne.exe
+D:\Cuatrimestre 9\Proyecto final\modificacion\bakup modificacion\ProjectOne\bin\Debug\ProjectOne.pdb
+D:\Cuatrimestre 9\Proyecto final\modificacion\bakup modificacion\ProjectOne\obj\Debug\ProjectOne.csprojResolveAssemblyReference.cache
+D:\Cuatrimestre 9\Ramiro-HD-Proyecto final OOP\Ramiro-HD-Proyectofinal OOP\ProjectOne\bin\Debug\ProjectOne.exe.config
+D:\Cuatrimestre 9\Ramiro-HD-Proyecto final OOP\Ramiro-HD-Proyectofinal OOP\ProjectOne\obj\Debug\ProjectOne.exe
+D:\Cuatrimestre 9\Ramiro-HD-Proyecto final OOP\Ramiro-HD-Proyectofinal OOP\ProjectOne\obj\Debug\ProjectOne.pdb
