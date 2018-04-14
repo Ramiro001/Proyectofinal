@@ -32,3 +32,6 @@ D:\Cuatrimestre 9\Proyecto final\modificacion\bakup modificacion\ProjectOne\obj\
 D:\Cuatrimestre 9\Ramiro-HD-Proyecto final OOP\Ramiro-HD-Proyectofinal OOP\ProjectOne\bin\Debug\ProjectOne.exe.config
 D:\Cuatrimestre 9\Ramiro-HD-Proyecto final OOP\Ramiro-HD-Proyectofinal OOP\ProjectOne\obj\Debug\ProjectOne.exe
 D:\Cuatrimestre 9\Ramiro-HD-Proyecto final OOP\Ramiro-HD-Proyectofinal OOP\ProjectOne\obj\Debug\ProjectOne.pdb
+C:\Users\ramiroyunior\Desktop\Proyectofinal\ProjectOne\bin\Debug\ProjectOne.exe.config
+C:\Users\ramiroyunior\Desktop\Proyectofinal\ProjectOne\obj\Debug\ProjectOne.exe
+C:\Users\ramiroyunior\Desktop\Proyectofinal\ProjectOne\obj\Debug\ProjectOne.pdb
